@@ -19,7 +19,7 @@
 //Task4
 // const amountOfElements = prompt("Input amount of squares you wanna get");
 // for(let i = 0 ; i < amountOfElements; i++){
-//     console.log(i*i);
+//     console.log(i**2);
 // }
 
 //Task5
@@ -39,7 +39,7 @@
 //Task7
 // function squaresOfNumbers(min, max){
 //         for(let i = min ; i < max; i++){
-//         console.log(i*i);
+//         console.log(i**2);
 //     }
 // }
 // const amountOfElements = prompt("Input amount of squares you wanna get");
