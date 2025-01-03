@@ -53,9 +53,9 @@
 // }
 
 // function getRandomRGB(){
-//     const num1 = getRandomInteger(0, 255);
-//     const num2 = getRandomInteger(0, 255);
-//     const num3 = getRandomInteger(0, 255);
+//     const num1 = getRandomInteger(0, 256);
+//     const num2 = getRandomInteger(0, 256);
+//     const num3 = getRandomInteger(0, 256);
 
 //     color = 'rgb('+num1+','+num2+','+num3+')';
 //     return color;
