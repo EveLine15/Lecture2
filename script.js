@@ -37,15 +37,15 @@
 // }
 
 //Task7
-function squaresOfNumbers(min, max){
-        for(let i = 0 ; i < max; i++){
-        const res = i**2;
-        if(res >= min && i < max) console.log(res);
-    }
-}
-const amountOfElements = prompt("Input amount of squares you wanna get");
-const minElement = prompt("Input amount the first element");
-squaresOfNumbers(minElement ,amountOfElements);
+// function squaresOfNumbers(min, max){
+//         for(let i = 0 ; i < max; i++){
+//         const res = i**2;
+//         if(res >= min && i < max) console.log(res);
+//     }
+// }
+// const amountOfElements = prompt("Input amount of squares you wanna get");
+// const minElement = prompt("Input amount the first element");
+// squaresOfNumbers(minElement ,amountOfElements);
 
 //Task8
 // function getRandomInteger(min, max) {
